@@ -6,7 +6,7 @@
 
 - Documentation what the code does and how to run it (in the code)
 
-- The result of the code should be returned in a new file (not printed in the console - can be a .csv file)
+- The result of the code should be returned in a new file (not printed in the console - can be a .csv file like example-result.csv)
 
 `Requirements:`
 
