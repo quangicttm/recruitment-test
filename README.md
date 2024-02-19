@@ -20,6 +20,8 @@
 - Write a function to display specific columns as follows: index, customer_id, first_name, last_name, phone_1 from the file you extracted about . 
     Save the result in a new .csv file.
 
-The code should be written in a file called test.py and the result of the last function should be saved in a file called result.csv
+The code should be written in a file called test.py and the result of the last function should be saved in a file called result.csv.
+
+You can save your code on github or gg drive and send to us by email (quang@icttm.net).
 
 If you have any questions, please let me know. Email: quang@icttm.net
